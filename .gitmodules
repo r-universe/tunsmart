@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "interactionR"]
-	path = interactionR
-	url = https://github.com/tunsmart/interactionr
-	shallow = true
-	registered = true
